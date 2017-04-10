@@ -3,7 +3,7 @@
  * Ric License
  *
  * @author     Ric
- * @copyright  Copyright (c) 2014-2016 Ric Inc. (https://www.Ric.tv)
+ * @copyright  Copyright (c) 2014-2016 Ric Inc. (http://www.yiqizuo.xin)
  * @license    http://www.yiqizuo.xin/ Ric License
  * @Date: 16/7/14
  * @Time: 15:08
