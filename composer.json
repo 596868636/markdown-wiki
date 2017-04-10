@@ -1,0 +1,10 @@
+{
+    "require": {
+        "michelf/php-markdown": "^1.6",
+        "league/html-to-markdown": "^4.2",
+        "erusev/parsedown": "^1.6",
+        "yuanchao/laravel-5-markdown-editor": "dev-master",
+        "thefox/html2markdown": "dev-master",
+        "phpzip/phpzip":">=2.0.7"
+    }
+}
